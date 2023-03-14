@@ -43,6 +43,7 @@ W:\Chun-Yi_He\pretrained_weight
 |_ /ASCEND/ 
     |_ dataset_NTUT (NTUT AB01 dataset)  
     |_ waves (ASCEND dataset)
+    |_ pretrained_weight
 ```
 
 ## Model training 
