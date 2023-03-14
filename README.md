@@ -40,10 +40,10 @@ MLLAB-public (\\mllab.asuscomm.com)W:\Chun-Yi_He\pretrained_weight
 ```
 ## FIle structure
 ```
-|_ transformers/examples/pytorch/speech-recognition/ASCEND/
-                                        |_ dataset_NTUT (NTUT AB01 dataset)  
-                                        |_ waves (ASCEND dataset)
-                                        |_ pretrained_weight
+|_ /ASCEND/
+  |_ dataset_NTUT (NTUT AB01 dataset)  
+  |_ waves (ASCEND dataset)
+  |_ pretrained_weight
 ```
 
 ## Model training 
