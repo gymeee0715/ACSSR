@@ -31,12 +31,12 @@ This repository is developed under huggingface Framework
 
 * dataset
 ```
-W:\Chun-Yi_He\ASR_data\NTUT\dataset_NTUT
-W:\Chun-Yi_He\ASR_data\ASCEND
+MLLAB-public (\\mllab.asuscomm.com)W:\Chun-Yi_He\ASR_data\NTUT\dataset_NTUT
+MLLAB-public (\\mllab.asuscomm.com)W:\Chun-Yi_He\ASR_data\ASCEND
 ```
 * pretrained weight
 ```
-W:\Chun-Yi_He\pretrained_weight
+MLLAB-public (\\mllab.asuscomm.com)W:\Chun-Yi_He\pretrained_weight
 ```
 ## FIle structure
 ```
