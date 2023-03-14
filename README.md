@@ -40,9 +40,9 @@ W:\Chun-Yi_He\pretrained_weight
 ```
 ## FIle structure
 ```
-|_ ASCEND 
-  |_ dataset_NTUT (NTUT AB01 dataset)  
-  |_ waves (ASCEND dataset)
+|_ /ASCEND/ 
+    |_ dataset_NTUT (NTUT AB01 dataset)  
+    |_ waves (ASCEND dataset)
 ```
 
 ## Model training 
