@@ -1,6 +1,6 @@
 # Learning Adapters for Code-Switching Speech Recognition
 This repository is developed under huggingface Framework
-
+####python 3.8.10
 ### Requirements
 
 - datasets >= 1.18.0
