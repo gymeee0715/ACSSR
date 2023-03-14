@@ -1,0 +1,17 @@
+numpy
+pandas
+torchaudio
+torch
+librosa
+datasets
+transformers
+jiwer
+jieba
+editdistance
+tensorboard
+fairscale
+accelerate
+seaborn
+evaluate
+spacy
+gradio
